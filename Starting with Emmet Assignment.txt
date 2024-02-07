@@ -1,0 +1,13 @@
+﻿Starting with Emmet ASSIGNMENT 
+
+
+Q1 What is Emmet? 
+Ans In simple words it reduces our task or time  consumption on a particular task to do it by providing  abbreviation that expand into full code. We can type a  few words or text and then expand them into a long  block of code with single keystroke. By using emmet, we write HTML and CSS faster in any platform. 
+
+
+Q2 What are the advantage of using Emmet? Ans Advantages of emmet are:- 
+➔ Saves time 
+➔ Helps you write more consistent code 
+➔Improves productivity 
+➔Widely supported 
+➔Easy to learn
